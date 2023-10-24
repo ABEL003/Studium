@@ -24,5 +24,4 @@ def Modus (dataset):
     return modes
 
 print(Modus(Zahlen))
-
 #Skalenniveau
