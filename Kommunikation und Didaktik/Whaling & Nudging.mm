@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1701721468295" ID="ID_178229246" MODIFIED="1701721811380" TEXT="Whaling &amp; Nudging">
+<node CREATED="1701721468295" ID="ID_178229246" MODIFIED="1701852412593" TEXT="Whaling &amp; Nudging">
 <node CREATED="1701721767632" ID="ID_1714218005" MODIFIED="1701721801478" POSITION="right" TEXT="Whaling">
 <node CREATED="1701721780237" ID="ID_102587688" MODIFIED="1701723247658" TEXT="CEO Fraud">
 <node CREATED="1701722695775" ID="ID_414574149" MODIFIED="1701723253813" TEXT="gef&#xe4;lschte E-Mails, die vorgeben, vom CEO zu stammen und Finanztransaktionen anfordern"/>
@@ -11,7 +11,7 @@
 <node CREATED="1701721801478" ID="ID_1201699457" MODIFIED="1701723248581" TEXT="Lieferantenbetrug">
 <node CREATED="1701722730126" ID="ID_479828706" MODIFIED="1701722737796" TEXT="Manipulation von E-Mails an Finanzabteilungen, um Zahlungen an betr&#xfc;gerische Lieferanten zu veranlassen"/>
 </node>
-<node CREATED="1701722290157" FOLDED="true" ID="ID_320001793" MODIFIED="1701722754775" TEXT="Board-Mitglieder-Angriffe">
+<node CREATED="1701722290157" ID="ID_320001793" MODIFIED="1701852556178" TEXT="Board-Mitglieder-Angriffe">
 <node CREATED="1701722750382" ID="ID_1098126173" MODIFIED="1701722752018" TEXT="Gezielte Phishing-Angriffe auf Vorstandsmitglieder, um sensible Unternehmensinformationen zu erhalten"/>
 </node>
 </node>
