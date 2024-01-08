@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "d62c8eb301d2814c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f2963a1f9eccf8c",
+        "type": "tabs",
+        "dimension": 65.17278617710583,
+        "children": [
+          {
+            "id": "258e7e5c930e4044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welche Auswirkungen hat die Integration von nudgingbasierten Anreizsystemen auf das Spielerlebnis in Free-to-Play-Spielen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bee28a4e3ff0b710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Whaling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "871a8d28829f6df6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nudging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cb783bec6789ea77",
+        "type": "tabs",
+        "dimension": 34.82721382289417,
+        "children": [
+          {
+            "id": "588ab42ebe586a09",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7ba1a5649b45ce9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c000c62c25cf2327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3942572a8e923b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "449aab43cb3e7437",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af4fc6047594f6fc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "e71d684cfb1e2e08",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dc604823ee5236b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "861299732c9fcb46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Whaling.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1af4dd8baabba023",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Whaling.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "788cfe0f9e6ac099",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2d50ab3bb833fff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Whaling.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "bee28a4e3ff0b710",
+  "lastOpenFiles": [
+    "Welche Auswirkungen hat die Integration von nudgingbasierten Anreizsystemen auf das Spielerlebnis in Free-to-Play-Spielen.md",
+    "Whaling.md",
+    "Nudging.md",
+    "Mental Health Apps.md",
+    "Positiv-Beispiele.md",
+    "create a link.md"
+  ]
+}
