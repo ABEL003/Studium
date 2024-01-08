@@ -1,0 +1,3 @@
+- Teil des "Game as a Service"-Modell
+- Mikrotransaktionen stellen kostengünstige Käufe dar, verglichen mit den Kosten eines vollständigen Spiels oder eines großen Erweiterungspakets, die dem Käufer zusätzliche Inhalte in irgendeiner Form bieten.
+- 

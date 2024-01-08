@@ -6,7 +6,7 @@
       {
         "id": "6f2963a1f9eccf8c",
         "type": "tabs",
-        "dimension": 65.17278617710583,
+        "dimension": 62.121212121212125,
         "children": [
           {
             "id": "258e7e5c930e4044",
@@ -14,46 +14,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welche Auswirkungen hat die Integration von nudgingbasierten Anreizsystemen auf das Spielerlebnis in Free-to-Play-Spielen.md",
+                "file": "Kommunkation und Didaktik/Nudging.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bee28a4e3ff0b710",
+            "id": "caf2745cf945e00a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whaling.md",
+                "file": "Kommunkation und Didaktik/Microtransaction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "871a8d28829f6df6",
+            "id": "5d95352b2682a99e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nudging.md",
+                "file": "Kommunkation und Didaktik/Whaling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ed42271142833c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kommunkation und Didaktik/Welche Auswirkungen hat die Integration von nudgingbasierten Anreizsystemen auf das Spielerlebnis in Free-to-Play-Spielen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
-        "id": "cb783bec6789ea77",
+        "id": "d87cb52124bfc18b",
         "type": "tabs",
-        "dimension": 34.82721382289417,
+        "dimension": 37.878787878787875,
         "children": [
           {
-            "id": "588ab42ebe586a09",
+            "id": "427da7ec2dcecf1f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -126,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Whaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Whaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Whaling.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -186,11 +194,16 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "bee28a4e3ff0b710",
+  "active": "427da7ec2dcecf1f",
   "lastOpenFiles": [
-    "Welche Auswirkungen hat die Integration von nudgingbasierten Anreizsystemen auf das Spielerlebnis in Free-to-Play-Spielen.md",
-    "Whaling.md",
-    "Nudging.md",
+    "Kommunkation und Didaktik/Microtransaction.md",
+    "Kommunkation und Didaktik/Welche Auswirkungen hat die Integration von nudgingbasierten Anreizsystemen auf das Spielerlebnis in Free-to-Play-Spielen.md",
+    "Kommunkation und Didaktik/Whaling.md",
+    "Kommunkation und Didaktik/Nudging.md",
+    "Kommunkation und Didaktik/Welche Anreizsysteme gibt es.md",
+    "Kommunkation und Didaktik/Assets/Urinal_FLy2.jpg",
+    "Kommunkation und Didaktik",
+    "Kommunkation und Didaktik/Assets",
     "Mental Health Apps.md",
     "Positiv-Beispiele.md",
     "create a link.md"
