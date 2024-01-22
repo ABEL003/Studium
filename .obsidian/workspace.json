@@ -15,7 +15,7 @@
               {
                 "id": "a46965adc6430546",
                 "type": "tabs",
-                "dimension": 20.19047619047619,
+                "dimension": 62.90780141843971,
                 "children": [
                   {
                     "id": "17c1e4dc1acb2ca7",
@@ -72,7 +72,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Kommunikation und Didaktik/Grundstruktur Hausarbeit.md",
+                        "file": "Ergebnisse der Primärquelle.md",
                         "mode": "source",
                         "source": false
                       }
@@ -84,7 +84,7 @@
               {
                 "id": "c45daf2e8401f068",
                 "type": "tabs",
-                "dimension": 79.80952380952381,
+                "dimension": 37.09219858156028,
                 "children": [
                   {
                     "id": "722a84c9a632aa67",
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf",
+                "file": "Ergebnisse der Primärquelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf",
+                "file": "Ergebnisse der Primärquelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf"
+                "file": "Ergebnisse der Primärquelle.md"
               }
             }
           }
@@ -282,18 +282,21 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "722a84c9a632aa67",
+  "active": "37701814c214ad28",
   "lastOpenFiles": [
+    "Kommunikation und Didaktik/Documents/lu9548xwrj.tmp",
+    "Kommunikation und Didaktik/IGD.md",
+    "Ergebnisse der Primärquelle.md",
+    "Kommunikation und Didaktik/Grundstruktur Hausarbeit.md",
+    "Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf",
+    "Kommunikation und Didaktik/Documents/lu9548xwrg.tmp",
     "Whaling-Techniken.md",
     "Kommunikation und Didaktik/Documents/Hausarbeit_Whaling und Nudging_Simon Feldmann, 3006165.odt",
     "Kommunikation und Didaktik/Documents/lu9548xwr7.tmp",
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/Deutsches Ärtzteblatt_Internet Gaming Disorder.pdf",
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/Top-Grossing Mobile and PC Games.pdf",
-    "Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf",
-    "Kommunikation und Didaktik/Grundstruktur Hausarbeit.md",
     "Kommunikation und Didaktik/Forschungs-Frage.md",
     "Kommunikation und Didaktik/Whaling-Techniken.md",
-    "Kommunikation und Didaktik/IGD.md",
     "Programmiersprachen-Hs Aalen/To-Do-List/node_modules/@esbuild/win32-x64/README.md",
     "Programmiersprachen-Hs Aalen/To-Do-List/node_modules/esbuild/README.md",
     "Kommunikation und Didaktik/Assets/Let’s go whaling_ Tricks for monetising mobile game players with free-to-play (720p_30fps_H264-192kbit_AAC).mp4",
@@ -302,7 +305,6 @@
     "Intercultural communication/Intercultural Workplace Scenarios & Co.md",
     "Intercultural communication/Gesellschaftsverständnis.md",
     "Intercultural communication/D.I.V.E-model_Simon Feldmann.pdf",
-    "Intercultural communication/Cultural Dimensions Workplace scenarios-Simon Feldmann.pdf",
     "Intercultural communication/CPS-Modell.md",
     "Referenzarbeiten.md",
     "Intercultural communication/Autorität.md",
