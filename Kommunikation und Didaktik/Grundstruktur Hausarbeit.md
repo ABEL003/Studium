@@ -6,6 +6,7 @@ Grundbegriffe der [[Forschungs-Frage]] erklären
 - Internet Gaming Disorder [[IGD]] erklären
 	- [[Ergebnisse der Primärquelle]] anführen
 	- in Kontext mit den [[Whaling-Techniken]] stellen
+- 
 
 - Quellenangaben
 	- [[vdoc.pub_game-analytics-maximizing-the-value-of-player-data.pdf]]
@@ -13,4 +14,4 @@ Grundbegriffe der [[Forschungs-Frage]] erklären
 	- [[s40429-014-0030-y.pdf]]
 	- [[gamification-and-nudging-techniques-for-improving-user-engagement-in-mental-health-and-well-being-apps.pdf]]
 	- [[About addicted Whales, at risk Dolphins and healthy.pdf]]
-	- 
+- [[Eidesstattliche Erklärung]]
