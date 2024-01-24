@@ -4,158 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "b1a9889f8f30cf9d",
-        "type": "split",
+        "id": "a46965adc6430546",
+        "type": "tabs",
+        "dimension": 52.9773156899811,
         "children": [
           {
-            "id": "750a08f59e4702c2",
-            "type": "split",
-            "dimension": 68.52836879432624,
-            "children": [
-              {
-                "id": "a46965adc6430546",
-                "type": "tabs",
-                "dimension": 62.90780141843971,
-                "children": [
-                  {
-                    "id": "17c1e4dc1acb2ca7",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Kommunikation und Didaktik/Grundstruktur Hausarbeit.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    },
-                    "group": "c1d692bc6b98b36d"
-                  },
-                  {
-                    "id": "bd831f8c3a7cebaf",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Kommunikation und Didaktik/Whaling-Techniken.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "8c3d5ccd2fc9a2b1",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Kommunikation und Didaktik/Forschungs-Frage.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "55f8389bfdf0ae91",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Kommunikation und Didaktik/IGD.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "37701814c214ad28",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Ergebnisse der Primärquelle.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ],
-                "currentTab": 4
-              },
-              {
-                "id": "c45daf2e8401f068",
-                "type": "tabs",
-                "dimension": 37.09219858156028,
-                "children": [
-                  {
-                    "id": "722a84c9a632aa67",
-                    "type": "leaf",
-                    "state": {
-                      "type": "pdf",
-                      "state": {
-                        "file": "Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf"
-                      }
-                    }
-                  },
-                  {
-                    "id": "ca50424478ea5eb2",
-                    "type": "leaf",
-                    "state": {
-                      "type": "pdf",
-                      "state": {
-                        "file": "Kommunikation und Didaktik/Documents/Referenzarbeiten/Deutsches Ärtzteblatt_Internet Gaming Disorder.pdf"
-                      }
-                    }
-                  }
-                ]
+            "id": "bd831f8c3a7cebaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Information und Technik/Navigation.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "direction": "horizontal"
-          },
-          {
-            "id": "58eb9fae432d7109",
-            "type": "tabs",
-            "dimension": 31.471631205673763,
-            "children": [
-              {
-                "id": "be3239fe828b0f6f",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "Kommunikation und Didaktik/Grundstruktur Hausarbeit.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1,
-                      "lineSizeMultiplier": 1,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 1,
-                      "close": false
-                    }
-                  }
-                },
-                "group": "c1d692bc6b98b36d"
-              }
-            ]
+            },
+            "group": "b47ac8394eefc885"
           }
-        ],
-        "direction": "vertical"
+        ]
+      },
+      {
+        "id": "2fc484e1c0230c49",
+        "type": "tabs",
+        "dimension": 47.0226843100189,
+        "children": [
+          {
+            "id": "76f9ac8aa85f0280",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Information und Technik/Navigation.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.338541666666667,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 263,
+                  "scale": 1.0000000000000002,
+                  "close": false
+                }
+              }
+            },
+            "group": "b47ac8394eefc885"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 400.5
   },
   "right": {
     "id": "e11dcc49e6375e16",
@@ -221,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ergebnisse der Primärquelle.md",
+                "file": "Information und Technik/Navigation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ergebnisse der Primärquelle.md",
+                "file": "Information und Technik/Navigation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ergebnisse der Primärquelle.md"
+                "file": "Information und Technik/Navigation.md"
               }
             }
           }
@@ -282,29 +191,49 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "37701814c214ad28",
+  "active": "76f9ac8aa85f0280",
   "lastOpenFiles": [
-    "Kommunikation und Didaktik/Documents/lu9548xwrj.tmp",
-    "Kommunikation und Didaktik/IGD.md",
-    "Ergebnisse der Primärquelle.md",
+    "Information und Technik/Die 5 Hinweisarten.md",
+    "Information und Technik/ANSI.md",
+    "Information und Technik/Whaling-Techniken.md",
+    "Information und Technik/Warnhinweis Struktur.md",
+    "Information und Technik/How to Tätigkeitsbeschreibung.md",
+    "Information und Technik/How to Handlunsanweisung.md",
+    "Information und Technik/Ergebnisse der Primärquelle.md",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124174525.png",
+    "Information und Technik/Navigation.md",
+    "Technisches Darstellen/Feldmann_3005165_231120.pdf",
+    "Information und Technik/Anleitungsfolien",
+    "Information und Technik/How to Warnhinweis.md",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204755.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204720.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204715.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204629.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204615.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204533.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204523.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204517.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204512.png",
+    "Information und Technik/How to Gerätebeschreibung.md",
+    "Information und Technik/How to Leistungsbeschreibung.md",
+    "Information und Technik/Abfolge der elemente in einer Anleitung.md",
+    "Information und Technik/Was kommt in welche  Beschreibung rein.md",
+    "Kommunikation und Didaktik/Whaling-Techniken.md",
     "Kommunikation und Didaktik/Grundstruktur Hausarbeit.md",
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf",
-    "Kommunikation und Didaktik/Documents/lu9548xwrg.tmp",
-    "Whaling-Techniken.md",
-    "Kommunikation und Didaktik/Documents/Hausarbeit_Whaling und Nudging_Simon Feldmann, 3006165.odt",
-    "Kommunikation und Didaktik/Documents/lu9548xwr7.tmp",
-    "Kommunikation und Didaktik/Documents/Referenzarbeiten/Deutsches Ärtzteblatt_Internet Gaming Disorder.pdf",
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/Top-Grossing Mobile and PC Games.pdf",
+    "Kommunikation und Didaktik/Documents/Referenzarbeiten/s40429-014-0030-y.pdf",
+    "Kommunikation und Didaktik/Documents/Referenzarbeiten/gamification-and-nudging-techniques-for-improving-user-engagement-in-mental-health-and-well-being-apps.pdf",
+    "Kommunikation und Didaktik/Documents/Referenzarbeiten/Deutsches Ärtzteblatt_Internet Gaming Disorder.pdf",
+    "Kommunikation und Didaktik/Documents/Referenzarbeiten/C1fnGA6NDES.pdf",
     "Kommunikation und Didaktik/Forschungs-Frage.md",
-    "Kommunikation und Didaktik/Whaling-Techniken.md",
+    "Kommunikation und Didaktik/Documents/lu9548xwrj.tmp",
+    "Kommunikation und Didaktik/IGD.md",
+    "Kommunikation und Didaktik/Documents/lu9548xwrg.tmp",
     "Programmiersprachen-Hs Aalen/To-Do-List/node_modules/@esbuild/win32-x64/README.md",
     "Programmiersprachen-Hs Aalen/To-Do-List/node_modules/esbuild/README.md",
-    "Kommunikation und Didaktik/Assets/Let’s go whaling_ Tricks for monetising mobile game players with free-to-play (720p_30fps_H264-192kbit_AAC).mp4",
-    "Intercultural communication/The_Concept_of_Culture_LeventSimon.pdf",
-    "Intercultural communication/The  Culture Map.pdf",
     "Intercultural communication/Intercultural Workplace Scenarios & Co.md",
     "Intercultural communication/Gesellschaftsverständnis.md",
-    "Intercultural communication/D.I.V.E-model_Simon Feldmann.pdf",
     "Intercultural communication/CPS-Modell.md",
     "Referenzarbeiten.md",
     "Intercultural communication/Autorität.md",
