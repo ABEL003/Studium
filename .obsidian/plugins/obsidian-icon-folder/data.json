@@ -1,0 +1,43 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": ".pdf",
+        "icon": "SiAdobeacrobatreader",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": ".odt",
+        "icon": "SiLibreoffice",
+        "for": "everything",
+        "order": 1
+      },
+      {
+        "rule": ".md",
+        "icon": "SiObsidian",
+        "for": "everything",
+        "order": 2
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  }
+}
