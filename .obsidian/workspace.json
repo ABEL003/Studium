@@ -4,87 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a46965adc6430546",
+        "id": "4e8b783000efbc0b",
         "type": "tabs",
-        "dimension": 61.760925449871465,
+        "dimension": 54.35103244837758,
         "children": [
           {
-            "id": "ac8878cc4dbeef54",
+            "id": "66a211ef6bff7adb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Information und Technik/Navigation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "455b7d26c042a8a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Information und Technik/Abfolge der elemente in einer Anleitung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f020145a0261938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Information und Technik/How to Warnhinweis.md",
+                "file": "2.Semester/Psychologie/Wahrnehmung.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2fc484e1c0230c49",
         "type": "tabs",
-        "dimension": 38.239074550128535,
+        "dimension": 45.64896755162242,
         "children": [
           {
-            "id": "76f9ac8aa85f0280",
+            "id": "77400ad1cd09756a",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Information und Technik/Abfolge der elemente in einer Anleitung.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.338541666666667,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 263,
-                  "scale": 0.7716208008585671,
-                  "close": true
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -137,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e11dcc49e6375e16",
@@ -154,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Information und Technik/Abfolge der elemente in einer Anleitung.md",
+                "file": "2.Semester/Psychologie/Wahrnehmung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Information und Technik/Abfolge der elemente in einer Anleitung.md",
+                "file": "2.Semester/Psychologie/Wahrnehmung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Information und Technik/Abfolge der elemente in einer Anleitung.md"
+                "file": "2.Semester/Psychologie/Wahrnehmung.md"
               }
             }
           }
@@ -215,8 +162,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "455b7d26c042a8a0",
+  "active": "66a211ef6bff7adb",
   "lastOpenFiles": [
+    "2.Semester/Psychologie/Untitled.canvas",
+    "2.Semester/Psychologie/Wahrnehmung.md",
+    "2.Semester/Psychologie/Anatomie und Physiologie.md",
+    "2.Semester/Psychologie/Assets/maxresdefault.jpg",
+    "2.Semester/Psychologie/Assets",
+    "2.Semester/Psychologie",
+    "2.Semester/Psychologie/Kognitive Psychologie.md",
+    "2.Semester/Psychologie/Konnektionismus.md",
+    "2.Semester/Psychologie/Informationsverarbeitungstheorie.md",
+    "2.Semester/Psychologie/Assets/185139_4_De_2_Fig8_HTML.png",
+    "2.Semester/Psychologie/Reiz Reaktions Schema.md",
+    "2.Semester/Psychologie/Assets/Reiz-Reaktions-Schema-1-1024x576.jpg",
+    "2.Semester/Psychologie/Historie.md",
+    "2.Semester/Psychologie/Mentale Prozesse.md",
+    "2.Semester/Psychologie/Kognitive Fähigkeiten.md",
     "Information und Technik/Navigation.md",
     "Information und Technik/How to Warnhinweis.md",
     "Information und Technik/ANSI.md",
@@ -239,9 +201,6 @@
     "Information und Technik/Anleitungsfolien/Pasted image 20240124204715.png",
     "Information und Technik/Anleitungsfolien/Pasted image 20240124204629.png",
     "Information und Technik/Anleitungsfolien/Pasted image 20240124204615.png",
-    "Information und Technik/Anleitungsfolien/Pasted image 20240124204533.png",
-    "Information und Technik/Anleitungsfolien/Pasted image 20240124204523.png",
-    "Information und Technik/Anleitungsfolien/Pasted image 20240124204517.png",
     "Information und Technik/How to Leistungsbeschreibung.md",
     "Kommunikation und Didaktik/Whaling-Techniken.md",
     "Kommunikation und Didaktik/Grundstruktur Hausarbeit.md",
@@ -251,17 +210,6 @@
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/gamification-and-nudging-techniques-for-improving-user-engagement-in-mental-health-and-well-being-apps.pdf",
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/Deutsches Ärtzteblatt_Internet Gaming Disorder.pdf",
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/C1fnGA6NDES.pdf",
-    "Kommunikation und Didaktik/Forschungs-Frage.md",
-    "Kommunikation und Didaktik/Documents/lu9548xwrj.tmp",
-    "Kommunikation und Didaktik/IGD.md",
-    "Kommunikation und Didaktik/Documents/lu9548xwrg.tmp",
-    "Programmiersprachen-Hs Aalen/To-Do-List/node_modules/@esbuild/win32-x64/README.md",
-    "Programmiersprachen-Hs Aalen/To-Do-List/node_modules/esbuild/README.md",
-    "Intercultural communication/Intercultural Workplace Scenarios & Co.md",
-    "Intercultural communication/Gesellschaftsverständnis.md",
-    "Intercultural communication/CPS-Modell.md",
-    "Referenzarbeiten.md",
-    "Intercultural communication/Autorität.md",
     "Intercultural communication/Untitled.canvas"
   ]
 }
