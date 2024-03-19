@@ -1,0 +1,12 @@
+- Wenig an gesamten Umfang geliefert
+- falsches Format abgebeben
+- Keine Unterschrift auf der eigenständigekitserklärung
+- Sprache und Stil nicht sauber
+- Abkürzungsverzeichnungs war gut
+- die 2 tabellen fehlen
+- "Bildunterschriften gehen so"
+- Gesamteindruck:
+	- es scheinen die letzten 3 Tage an Arbeit zu fehlen
+- mindestens 2 bilder (war vorhanden)
+- bei anderen Dateimformaten vorher abklären
+	- Kriterien müssen in jedem Fall erfüllt werden

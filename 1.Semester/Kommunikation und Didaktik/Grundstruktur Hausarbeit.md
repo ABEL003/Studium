@@ -5,7 +5,7 @@ Grundbegriffe der [[Forschungs-Frage]] erklären
 	- verschiedene technicken von whaling erläutern
 - Internet Gaming Disorder [[IGD]] erklären
 	- [[Ergebnisse der Primärquelle]] anführen
-	- in Kontext mit den [[Information und Technik/Whaling-Techniken]] stellen
+	- in Kontext mit den [[1.Semester/Information und Technik/Whaling-Techniken]] stellen
 - 
 
 - Quellenangaben
