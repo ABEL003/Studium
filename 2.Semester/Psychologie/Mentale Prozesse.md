@@ -1,0 +1,3 @@
+- [Gedanken]
+- [Meinungen/Einstellungen]
+- [Wünsche/Absichten]

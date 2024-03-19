@@ -1,0 +1,3 @@
+- [Aufmerksamkeit]
+- [Erinnerung]
+- [Lernen]
