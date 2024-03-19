@@ -6,15 +6,15 @@
       {
         "id": "4e8b783000efbc0b",
         "type": "tabs",
-        "dimension": 54.35103244837758,
+        "dimension": 62.68436578171091,
         "children": [
           {
-            "id": "66a211ef6bff7adb",
+            "id": "8aa591dfae86c33d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Semester/Psychologie/Wahrnehmung.md",
+                "file": "Notizen.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "2fc484e1c0230c49",
         "type": "tabs",
-        "dimension": 45.64896755162242,
+        "dimension": 37.315634218289084,
         "children": [
           {
             "id": "77400ad1cd09756a",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Semester/Psychologie/Wahrnehmung.md",
+                "file": "Notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Semester/Psychologie/Wahrnehmung.md",
+                "file": "Notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Semester/Psychologie/Wahrnehmung.md"
+                "file": "Notizen.md"
               }
             }
           }
@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,10 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66a211ef6bff7adb",
+  "active": "77400ad1cd09756a",
   "lastOpenFiles": [
-    "2.Semester/Psychologie/Untitled.canvas",
+    "Notizen.md",
+    "2.Semester/Text and Speech",
+    "2.Semester/Informationen/Notizen.md",
     "2.Semester/Psychologie/Wahrnehmung.md",
+    "2.Semester/Informationen",
+    "2.Semester/Psychologie/Untitled.canvas",
     "2.Semester/Psychologie/Anatomie und Physiologie.md",
     "2.Semester/Psychologie/Assets/maxresdefault.jpg",
     "2.Semester/Psychologie/Assets",
@@ -203,13 +208,10 @@
     "Information und Technik/Anleitungsfolien/Pasted image 20240124204615.png",
     "Information und Technik/How to Leistungsbeschreibung.md",
     "Kommunikation und Didaktik/Whaling-Techniken.md",
-    "Kommunikation und Didaktik/Grundstruktur Hausarbeit.md",
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf",
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/Top-Grossing Mobile and PC Games.pdf",
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/s40429-014-0030-y.pdf",
     "Kommunikation und Didaktik/Documents/Referenzarbeiten/gamification-and-nudging-techniques-for-improving-user-engagement-in-mental-health-and-well-being-apps.pdf",
-    "Kommunikation und Didaktik/Documents/Referenzarbeiten/Deutsches Ärtzteblatt_Internet Gaming Disorder.pdf",
-    "Kommunikation und Didaktik/Documents/Referenzarbeiten/C1fnGA6NDES.pdf",
     "Intercultural communication/Untitled.canvas"
   ]
 }
