@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Semester/Hausarbeit 2.0/Learnings aus dem letzten Semester.md",
+                "file": "2.Semester/Webengeneering/SeO (Search Engine optimization).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed8c3c283c27ac14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Semester/Hausarbeit 2.0/Learnings aus dem letzten Semester.md",
+                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Semester/Hausarbeit 2.0/Learnings aus dem letzten Semester.md",
+                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Semester/Hausarbeit 2.0/Learnings aus dem letzten Semester.md"
+                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "5203cf38c5688899",
+  "active": "ed8c3c283c27ac14",
   "lastOpenFiles": [
+    "2.Semester/Webengeneering/CSS-Boxmodell.md",
+    "2.Semester/Webengeneering/SeO (Search Engine optimization).md",
+    "2.Semester/Hausarbeit 2.0/Learnings aus dem letzten Semester.md",
     "2.Semester/Psychologie/Assets/maxresdefault.jpg",
     "2.Semester/Psychologie/Assets/Reiz-Reaktions-Schema-1-1024x576.jpg",
     "2.Semester/Psychologie/Assets/185139_4_De_2_Fig8_HTML.png",
@@ -163,7 +179,6 @@
     "2.Semester/Psychologie/Anatomie und Physiologie.md",
     "2.Semester/Psychologie",
     "1.Semester/Kommunikation und Didaktik/Documents/Hausarbeit_Whaling und Nudging_Simon Feldmann, 3006165.docx",
-    "2.Semester/Hausarbeit 2.0/Learnings aus dem letzten Semester.md",
     "2.Semester/Hausarbeit 2.0",
     "Notizen.md",
     "Unbenannt 1.md",
@@ -184,7 +199,6 @@
     "1.Semester/Information und Technik/How to Gerätebeschreibung.md",
     "1.Semester/Information und Technik/Whaling-Techniken.md",
     "1.Semester/Information und Technik/Warnhinweis Struktur.md",
-    "1.Semester/Information und Technik/How to Handlunsanweisung.md",
     "1.Semester/Information und Technik/Anleitungsfolien/Pasted image 20240124174525.png",
     "Technisches Darstellen/Feldmann_3005165_231120.pdf",
     "1.Semester/Information und Technik/Anleitungsfolien",
@@ -192,7 +206,6 @@
     "1.Semester/Information und Technik/Anleitungsfolien/Pasted image 20240124204720.png",
     "1.Semester/Information und Technik/Anleitungsfolien/Pasted image 20240124204715.png",
     "1.Semester/Information und Technik/Anleitungsfolien/Pasted image 20240124204629.png",
-    "1.Semester/Information und Technik/Anleitungsfolien/Pasted image 20240124204615.png",
     "1.Semester/Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf",
     "Intercultural communication/Untitled.canvas"
   ]
