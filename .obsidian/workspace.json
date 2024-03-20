@@ -4,35 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "e7795d7f77a3e892",
+        "id": "4e8b783000efbc0b",
         "type": "tabs",
+        "dimension": 62.68436578171091,
         "children": [
           {
-            "id": "5203cf38c5688899",
+            "id": "8aa591dfae86c33d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Semester/Webengeneering/SeO (Search Engine optimization).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed8c3c283c27ac14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
+                "file": "Notizen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "2fc484e1c0230c49",
+        "type": "tabs",
+        "dimension": 37.315634218289084,
+        "children": [
+          {
+            "id": "77400ad1cd09756a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
+                "file": "Notizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
+                "file": "Notizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md"
+                "file": "Notizen.md"
               }
             }
           }
@@ -151,62 +154,64 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Schnellauswahl öffnen": false,
-      "graph:Graphen-Ansicht öffnen": false,
-      "canvas:Neuen Canvas erstellen": false,
-      "daily-notes:Heutige Notiz öffnen": false,
-      "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ed8c3c283c27ac14",
+  "active": "77400ad1cd09756a",
   "lastOpenFiles": [
-    "2.Semester/Webengeneering/CSS-Boxmodell.md",
-    "2.Semester/Webengeneering/SeO (Search Engine optimization).md",
-    "2.Semester/Hausarbeit 2.0/Learnings aus dem letzten Semester.md",
-    "2.Semester/Psychologie/Assets/maxresdefault.jpg",
-    "2.Semester/Psychologie/Assets/Reiz-Reaktions-Schema-1-1024x576.jpg",
-    "2.Semester/Psychologie/Assets/185139_4_De_2_Fig8_HTML.png",
-    "2.Semester/Psychologie/Konnektionismus.md",
-    "2.Semester/Psychologie/Mentale Prozesse.md",
-    "2.Semester/Psychologie/Reiz Reaktions Schema.md",
-    "2.Semester/Psychologie/Wahrnehmung.md",
-    "2.Semester/Psychologie/Kognitive Psychologie.md",
-    "2.Semester/Psychologie/Informationsverarbeitungstheorie.md",
-    "2.Semester/Psychologie/Historie.md",
-    "2.Semester/Psychologie/Assets",
-    "2.Semester/Psychologie/Kognitive Fähigkeiten.md",
-    "2.Semester/Psychologie/Anatomie und Physiologie.md",
-    "2.Semester/Psychologie",
-    "1.Semester/Kommunikation und Didaktik/Documents/Hausarbeit_Whaling und Nudging_Simon Feldmann, 3006165.docx",
-    "2.Semester/Hausarbeit 2.0",
     "Notizen.md",
-    "Unbenannt 1.md",
-    "1.Semester/Skript Nebelkammer  Formblatt  II.md",
-    "2.Semester/Webengeneering",
-    "2.Semester",
-    "1.Semester/Pasted image 20240208100635.png",
-    "1.Semester/Pasted image 20240125075016.png",
-    "1.Semester/Navigations und Ordnungselemente.md",
-    "1.Semester",
-    "1.Semester/Information und Technik/How to Warnhinweis.md",
-    "1.Semester/Information und Technik/Abfolge der elemente in einer Anleitung.md",
-    "1.Semester/Information und Technik/Navigation.md",
-    "1.Semester/Information und Technik/ANSI.md",
-    "1.Semester/Information und Technik/How to Tätigkeitsbeschreibung.md",
-    "1.Semester/Information und Technik/Was kommt in welche  Beschreibung rein.md",
-    "1.Semester/Information und Technik/Die 5 Hinweisarten.md",
-    "1.Semester/Information und Technik/How to Gerätebeschreibung.md",
-    "1.Semester/Information und Technik/Whaling-Techniken.md",
-    "1.Semester/Information und Technik/Warnhinweis Struktur.md",
-    "1.Semester/Information und Technik/Anleitungsfolien/Pasted image 20240124174525.png",
+    "2.Semester/Text and Speech",
+    "2.Semester/Informationen/Notizen.md",
+    "2.Semester/Psychologie/Wahrnehmung.md",
+    "2.Semester/Informationen",
+    "2.Semester/Psychologie/Untitled.canvas",
+    "2.Semester/Psychologie/Anatomie und Physiologie.md",
+    "2.Semester/Psychologie/Assets/maxresdefault.jpg",
+    "2.Semester/Psychologie/Assets",
+    "2.Semester/Psychologie",
+    "2.Semester/Psychologie/Kognitive Psychologie.md",
+    "2.Semester/Psychologie/Konnektionismus.md",
+    "2.Semester/Psychologie/Informationsverarbeitungstheorie.md",
+    "2.Semester/Psychologie/Assets/185139_4_De_2_Fig8_HTML.png",
+    "2.Semester/Psychologie/Reiz Reaktions Schema.md",
+    "2.Semester/Psychologie/Assets/Reiz-Reaktions-Schema-1-1024x576.jpg",
+    "2.Semester/Psychologie/Historie.md",
+    "2.Semester/Psychologie/Mentale Prozesse.md",
+    "2.Semester/Psychologie/Kognitive Fähigkeiten.md",
+    "Information und Technik/Navigation.md",
+    "Information und Technik/How to Warnhinweis.md",
+    "Information und Technik/ANSI.md",
+    "Information und Technik/How to Tätigkeitsbeschreibung.md",
+    "Information und Technik/Abfolge der elemente in einer Anleitung.md",
+    "Navigations und Ordnungselemente.md",
+    "Information und Technik/Was kommt in welche  Beschreibung rein.md",
+    "Information und Technik/Die 5 Hinweisarten.md",
+    "Information und Technik/How to Gerätebeschreibung.md",
+    "Pasted image 20240125075016.png",
+    "Information und Technik/Whaling-Techniken.md",
+    "Information und Technik/Warnhinweis Struktur.md",
+    "Information und Technik/How to Handlunsanweisung.md",
+    "Information und Technik/Ergebnisse der Primärquelle.md",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124174525.png",
     "Technisches Darstellen/Feldmann_3005165_231120.pdf",
-    "1.Semester/Information und Technik/Anleitungsfolien",
-    "1.Semester/Information und Technik/Anleitungsfolien/Pasted image 20240124204755.png",
-    "1.Semester/Information und Technik/Anleitungsfolien/Pasted image 20240124204720.png",
-    "1.Semester/Information und Technik/Anleitungsfolien/Pasted image 20240124204715.png",
-    "1.Semester/Information und Technik/Anleitungsfolien/Pasted image 20240124204629.png",
-    "1.Semester/Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf",
+    "Information und Technik/Anleitungsfolien",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204755.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204720.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204715.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204629.png",
+    "Information und Technik/Anleitungsfolien/Pasted image 20240124204615.png",
+    "Information und Technik/How to Leistungsbeschreibung.md",
+    "Kommunikation und Didaktik/Whaling-Techniken.md",
+    "Kommunikation und Didaktik/Documents/Referenzarbeiten/About addicted Whales, at risk Dolphins and healthy.pdf",
+    "Kommunikation und Didaktik/Documents/Referenzarbeiten/Top-Grossing Mobile and PC Games.pdf",
+    "Kommunikation und Didaktik/Documents/Referenzarbeiten/s40429-014-0030-y.pdf",
+    "Kommunikation und Didaktik/Documents/Referenzarbeiten/gamification-and-nudging-techniques-for-improving-user-engagement-in-mental-health-and-well-being-apps.pdf",
     "Intercultural communication/Untitled.canvas"
   ]
 }
