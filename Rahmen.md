@@ -1,0 +1,15 @@
+- Wenn stilisiert dann hat die CSS-Box einen Ramen, ansonsten nicht
+- wird stilisiert mit:
+	- `border` `-left`, `-top`, `-right`,  `-bottom`
+	- `none` --> kein Rahmen
+	- `-solid` --> durchgezogener Rahmen
+	- `-dashed` --> gestrichelter Rahmen
+	- `-dotted` --> gepunkteter Rahmen
+	- `-double` --> doppelter duchgezogener Rahmen
+	- `-ridge` --> 3D Rahmen (geteilt)
+	- `-groove` --> 3D Rahmen (geteilt)
+	- `-inset` --> 3D Rahmen ("nach innen gelegt")
+	- `-outset` --> 3D Rahmen ("nach außen gelegt")
+	- `-width` --> breite des Rahmens
+	- `-style` --> style des Rahmens
+	- `-color` --> Farbe des Rahmens

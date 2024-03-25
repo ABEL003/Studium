@@ -1,0 +1,4 @@
+- legt den eigentlichen Abstand zwischen Rahmen und Inhalt fest
+- klassische befehle sind hierbei:
+	- `padding-` `left, right, top, bottom`
+- 

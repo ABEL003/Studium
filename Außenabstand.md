@@ -1,0 +1,7 @@
+- Legt Abstand zwischen anderen Elementen und dem Rahmen des Elements fest
+- wird stilisiert mit:
+	- `margin`
+	- `margin-left`
+	- `margin-top`
+	- `margin-right`
+- 
