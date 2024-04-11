@@ -14,6 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
                 "mode": "source",
                 "source": false
@@ -51,6 +52,9 @@
               "type": "markdown",
               "state": {
                 "file": "2.Semester/Webengeneering/SeO (Search Engine optimization).md",
+=======
+                "file": "Tutorium 3D-CAD.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +141,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
+=======
+                "file": "Tutorium 3D-CAD.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +162,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
+=======
+                "file": "Tutorium 3D-CAD.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +189,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "2.Semester/Webengeneering/CSS-Boxmodell.md"
+=======
+                "file": "Tutorium 3D-CAD.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -190,15 +206,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "omnisearch:Omnisearch": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "omnisearch:Omnisearch": false
     }
   },
+<<<<<<< Updated upstream
   "active": "1b153d88aec06c20",
   "lastOpenFiles": [
     "2.Semester/Produktentwicklung/VDI_2221 Blatt 1&2.pdf",
@@ -221,6 +238,12 @@
     "2.Semester/Webengeneering/Innenabstand.md",
     "2.Semester/Webengeneering/SeO (Search Engine optimization).md",
     "2.Semester/Webengeneering/assets/Box-Modell.png",
+=======
+  "active": "8aa591dfae86c33d",
+  "lastOpenFiles": [
+    "Tutorium 3D-CAD.md",
+    "2.Semester/Text and Speech",
+>>>>>>> Stashed changes
     "2.Semester/Informationen/Notizen.md",
     "2.Semester/Psychologie/Wahrnehmung.md",
     "2.Semester/Psychologie/Untitled.canvas",
