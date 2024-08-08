@@ -1,1 +1,0 @@
-**Konnektionismus**, Verbindungslehre, auch: neuronales Modell, Forschungsansatz der Kognitiven **Psychologie**, der sich mit der Konnektion (der Verknüpfung) neuronaler Elemente und mit der Art und Weise befaßt, wie sich dadurch höhere Kognitionen darstellen und erklären lassen.

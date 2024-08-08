@@ -1,7 +1,0 @@
-[[Anatomie und Physiologie]]
-Wahrnehmungsprozesse
-Visuelle Aufmerksamkeit
-Objektidentifizierung
-Räumliche Wahrnehmung
-Auditive Wahrnehmung
-Somatosensorische Wahrnehmung
