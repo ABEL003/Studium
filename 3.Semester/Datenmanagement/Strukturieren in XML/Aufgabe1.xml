@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<dozentenliste xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Aufgabe1.xsd">
+    <dozent did="d1" anrede="Herr">
+        <name>Maier</name>
+        <vorname>Fritz</vorname>
+        <bild ref="maier.jpg"/>
+        <aktuelles>Nächste Woche findet die Sprechstunde am Montag statt. </aktuelles>
+    </dozent> <dozent did="d2" anrede="Frau">
+        <name>Müller</name>
+        <vorname>Sabine</vorname>
+        <bild ref="mueller.jpg"/>
+        <aktuelles>Heute: Vortrag zum Thema &quot;Auslandsstudium&quot; </aktuelles>
+    </dozent>
+</dozentenliste>
