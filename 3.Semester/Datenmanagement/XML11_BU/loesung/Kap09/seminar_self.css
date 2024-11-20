@@ -1,0 +1,33 @@
+SEMINAR{
+    display: block;
+    font-family: Verdana, sans-serif;
+    border-width: 10px;
+    border-style: solid;
+    border-color: lightblue;
+}
+
+TITEL{
+    display:block;
+    font-size:14pt;
+    background-color:cornflowerblue;
+    text-align:center;
+    padding: 20pt;
+}
+
+ORT, DATUM{
+    display:block;
+    font-size:14pt;
+    font-weight:bold;
+    margin: 5pt;
+}
+
+THEMA{
+    display:block;
+    margin-left: 20pt;
+}
+
+PERSON{
+    font-size:10pt;
+    display:block;
+    margin: 2pt;
+}
