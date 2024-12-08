@@ -6,6 +6,11 @@
 <html>
 <head>
 <title>Liedübersicht</title>
+    <style type="text/css">
+        table { border:3px solid #000;}
+        td    { border:1px dotted #000; padding:3px; width:200px; }
+        .head  { font-weight:bold; color:red; }
+    </style>
 </head>
 <body>
   <xsl:for-each select="//ALBUM">
