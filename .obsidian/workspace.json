@@ -1,78 +1,24 @@
 {
   "main": {
-    "id": "92c57986bc87bc95",
+    "id": "c8a7f231f9507528",
     "type": "split",
     "children": [
       {
-        "id": "4e8b783000efbc0b",
+        "id": "98ec1f730675817c",
         "type": "tabs",
-        "dimension": 63.05309734513275,
         "children": [
           {
-            "id": "1b153d88aec06c20",
+            "id": "f195fb347706f596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
+                "file": "Filmlet_Fragerunde.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "74b05e2ede88bb41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Semester/Webengeneering/Quellen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6963ee1f9faf7122",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rahmen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31bbc48446d287cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Semester/Webengeneering/SeO (Search Engine optimization).md",
-=======
-                "file": "Tutorium 3D-CAD.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0911f6ffc2a89fe8",
-        "type": "tabs",
-        "dimension": 36.94690265486726,
-        "children": [
-          {
-            "id": "77400ad1cd09756a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "Filmlet_Fragerunde"
             }
           }
         ]
@@ -81,25 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "94adfe226b09ed15",
+    "id": "8f55af66ff099510",
     "type": "split",
     "children": [
       {
-        "id": "40d11524387f24de",
+        "id": "9b5e207c3d541626",
         "type": "tabs",
         "children": [
           {
-            "id": "0bce9fd7446d2fe5",
+            "id": "c9dd7a7427c9ea17",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
             }
           },
           {
-            "id": "cb861c36809ccea9",
+            "id": "99ee05101bc66741",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -110,42 +59,42 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
             }
           },
           {
-            "id": "d20722ccc0fe34c3",
+            "id": "ae12ba2508f7a224",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "e11dcc49e6375e16",
+    "id": "dff8886c61fe311c",
     "type": "split",
     "children": [
       {
-        "id": "2e7b40f810dee013",
+        "id": "1a6c77e6ed80582b",
         "type": "tabs",
         "children": [
           {
-            "id": "37b69306bd186127",
+            "id": "9e5cff6f738fd5a2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
-=======
-                "file": "Tutorium 3D-CAD.md",
->>>>>>> Stashed changes
+                "file": "Filmlet_Fragerunde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,48 +102,53 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Filmlet_Fragerunde"
             }
           },
           {
-            "id": "54e492dc1e0e9341",
+            "id": "74245999f8c5b0e5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md",
-=======
-                "file": "Tutorium 3D-CAD.md",
->>>>>>> Stashed changes
+                "file": "Filmlet_Fragerunde.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Filmlet_Fragerunde öffnen"
             }
           },
           {
-            "id": "e786a3586e5aedf0",
+            "id": "d73d5e0158dbb134",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "8498fcd021df39bc",
+            "id": "9037df1b59157527",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "2.Semester/Webengeneering/CSS-Boxmodell.md"
-=======
-                "file": "Tutorium 3D-CAD.md"
->>>>>>> Stashed changes
-              }
+                "file": "Filmlet_Fragerunde.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Filmlet_Fragerunde"
             }
           }
         ]
@@ -215,62 +169,8 @@
       "omnisearch:Omnisearch": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "1b153d88aec06c20",
+  "active": "f195fb347706f596",
   "lastOpenFiles": [
-    "2.Semester/Produktentwicklung/VDI_2221 Blatt 1&2.pdf",
-    "2.Semester/Produktentwicklung",
-    "2.Semester/3d-CAD/sf_Wood_Base_1.ipt",
-    "2.Semester/3d-CAD/sf_Pivot_Shaft_Spring_1.ipt",
-    "2.Semester/3d-CAD/sf_Piston_Rod_Gland_1.ipt",
-    "2.Semester/3d-CAD/sf_Piston_Rod_Big_End_1.ipt",
-    "2.Semester/3d-CAD/sf_Piston_Rod_1.ipt",
-    "2.Semester/3d-CAD/sf_Piston_1.ipt",
-    "2.Semester/3d-CAD/sf_Flywheel_1.ipt",
-    "2.Semester/3d-CAD/sf_Cylinder_Rear_Lid_1.ipt",
-    "2.Semester/3d-CAD/sf_Cylinder_Pivot_Shaft_1.ipt",
-    "2.Semester/Webengeneering/Quellen.md",
-    "Außenabstand.md",
-    "2.Semester/Webengeneering/CSS-Boxmodell.md",
-    "Rahmen.md",
-    "2.Semester/Webengeneering/Inhalt.md",
-    "2.Semester/Webengeneering/Notizen.md",
-    "2.Semester/Webengeneering/Innenabstand.md",
-    "2.Semester/Webengeneering/SeO (Search Engine optimization).md",
-    "2.Semester/Webengeneering/assets/Box-Modell.png",
-=======
-  "active": "8aa591dfae86c33d",
-  "lastOpenFiles": [
-    "Tutorium 3D-CAD.md",
-    "2.Semester/Text and Speech",
->>>>>>> Stashed changes
-    "2.Semester/Informationen/Notizen.md",
-    "2.Semester/Psychologie/Wahrnehmung.md",
-    "2.Semester/Psychologie/Untitled.canvas",
-    "2.Semester/Psychologie/Anatomie und Physiologie.md",
-    "2.Semester/Psychologie/Assets/maxresdefault.jpg",
-    "2.Semester/Psychologie/Kognitive Psychologie.md",
-    "2.Semester/Psychologie/Konnektionismus.md",
-    "2.Semester/Psychologie/Informationsverarbeitungstheorie.md",
-    "2.Semester/Psychologie/Assets/185139_4_De_2_Fig8_HTML.png",
-    "2.Semester/Psychologie/Reiz Reaktions Schema.md",
-    "2.Semester/Psychologie/Assets/Reiz-Reaktions-Schema-1-1024x576.jpg",
-    "2.Semester/Psychologie/Historie.md",
-    "2.Semester/Psychologie/Mentale Prozesse.md",
-    "2.Semester/Psychologie/Kognitive Fähigkeiten.md",
-    "Information und Technik/Navigation.md",
-    "Information und Technik/How to Warnhinweis.md",
-    "Information und Technik/ANSI.md",
-    "Information und Technik/How to Tätigkeitsbeschreibung.md",
-    "Information und Technik/Abfolge der elemente in einer Anleitung.md",
-    "Navigations und Ordnungselemente.md",
-    "Information und Technik/Was kommt in welche  Beschreibung rein.md",
-    "Pasted image 20240125075016.png",
-    "Information und Technik/Anleitungsfolien/Pasted image 20240124174525.png",
-    "Information und Technik/Anleitungsfolien/Pasted image 20240124204755.png",
-    "Information und Technik/Anleitungsfolien/Pasted image 20240124204720.png",
-    "Information und Technik/Anleitungsfolien/Pasted image 20240124204715.png",
-    "Information und Technik/Anleitungsfolien/Pasted image 20240124204629.png",
-    "Intercultural communication/Untitled.canvas"
+    "Filmlet_Fragerunde.md"
   ]
 }
