@@ -22,7 +22,10 @@
 
 - Was sind die Kernfunktionen der App? Welche Features sind "Must-have" vs. "Nice-to-have"?
 	- must-have
-		- 
+		- Editormodus
+		- Callsheets
+		- sidebar-menu (auch für hochformat) (aber hauptsache das es sich sinnvoll anfühlen soll)
+		- Timeline
 	- nice have
 		- 
 
@@ -30,11 +33,13 @@
 	- offline fähigkeit
 	- (Live ablauf am set") -> wie die "shotlister" app
 - Gibt es schon Wireframes, Mockups oder ein erstes UI-Design?
-	- 
+	- Nein
 - Welche Designprinzipien oder Tools nutzt ihr bisher?
-	- 
+	- Material Icons
+	- Figma
 - Gibt es bestimmte technische oder gestalterische Einschränkungen?
-	- 
+	- Darkmode
+	- soll dynamisch sein
 - 
 
 ### UX & Usability
@@ -102,4 +107,10 @@
 - Was hat euch bisher am meisten überrascht – positiv oder negativ?
 	- 
 - Wenn ihr unbegrenzt Budget hättet – was würdet ihr als Erstes tun?
-	- 
+
+
+Anforderungen an den Prototyp
+	Test sollte gut lesbar auf jedem Gerät sein ~12
+	Soll Darkmode funktionieren
+		so ne 2 auf Dunkelheitskala
+	Hochformat und Querformat festlegen
