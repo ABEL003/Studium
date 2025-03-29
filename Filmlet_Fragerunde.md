@@ -27,7 +27,9 @@
 		- sidebar-menu (auch für hochformat) (aber hauptsache das es sich sinnvoll anfühlen soll)
 		- Timeline
 	- nice have
-		- 
+		- Drehbuch
+			- eine seite drehbuch = 1 minute Film
+			- 
 
 - USP
 	- offline fähigkeit
