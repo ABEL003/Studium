@@ -1,0 +1,5 @@
+Farbwert für Grau # dcdcde
+Farbwert für Blau # a1c5ee
+
+
+
